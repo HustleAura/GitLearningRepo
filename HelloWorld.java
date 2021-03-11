@@ -7,5 +7,7 @@ public class HelloWorld {
 		System.out.println("This is the edit done to the file after the first commit");
 		
 		System.out.println("Changes after second commit and on dev branch");
+		
+		new change in dev branch
 	}
 }
